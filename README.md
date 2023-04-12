@@ -22,4 +22,4 @@ I would be delighted to review any project you have to determine how to carry ou
 
 ## PROJECTS
 
-	*italicized text*
+_"The projects presented below are shown with client knowledge, which means that they agreed to display them, altering the names and data of the original project."_
