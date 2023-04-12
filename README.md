@@ -29,4 +29,4 @@ _"The projects presented below are shown with client knowledge, which means that
 A project that required the creation of a dynamic control panel of a person's financial movements. Looker Studio from Google was used for data visualization and Google Sheets for data cleaning. The control panel allows for a detailed display of expenses in corresponding categories and subcategories. Additionally, it shows available funds, monthly income, and debts. The dashboard can be filtered by any element, including Date, Category, Year, Month, Day, among others.
 
 
-![alt text](Project 1.jpg)
+!(Project 1.jpg)
