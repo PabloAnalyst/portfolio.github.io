@@ -11,7 +11,11 @@ I would be delighted to review any project you have to determine how to carry ou
 ## SKILLS
 
 ✓ Identify opportunities for improvement and critical areas of a business through data analysis.
+
 ✓ Design attractive and easy-to-understand visualizations that reduce cognitive load.
+
 ✓ Extract and combine data from different sources, including databases and flat files, to obtain a complete view of the information.
+
 ✓ Utilize data cleaning techniques to ensure data quality and integrity.
+
 ✓ Create interactive reports and dashboards to explore data and discover hidden patterns, trends, and relationships.
