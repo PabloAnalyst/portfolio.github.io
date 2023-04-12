@@ -19,3 +19,7 @@ I would be delighted to review any project you have to determine how to carry ou
 ✓ Utilize data cleaning techniques to ensure data quality and integrity.
 
 ✓ Create interactive reports and dashboards to explore data and discover hidden patterns, trends, and relationships.
+
+## PROJECTS
+
+	*italicized text*
