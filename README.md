@@ -30,7 +30,7 @@ A project that required the creation of a dynamic control panel of a person's fi
 
 ![](Images/p1.jpg)
 
-### Project 2, Income Café Dashboard
+### Project 2, Income Café Dashboard Power BI
 
 A dashboard was requested to be created from a café's database to maintain control over their income. To accomplish this, activities such as data extraction, related table cleaning, data manipulation, and dynamic visualization using Power BI were carried out. The resulting dashboard contains four interrelated graphs, enabling dynamic navigation by selecting any item to filter related values.
 
