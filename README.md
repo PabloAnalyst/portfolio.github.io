@@ -29,3 +29,10 @@ _"The projects presented below are shown with client knowledge, which means that
 A project that required the creation of a dynamic control panel of a person's financial movements. Looker Studio from Google was used for data visualization and Google Sheets for data cleaning. The control panel allows for a detailed display of expenses in corresponding categories and subcategories. Additionally, it shows available funds, monthly income, and debts. The dashboard can be filtered by any element, including Date, Category, Year, Month, Day, among others.
 
 ![](Images/p1.jpg)
+
+
+##Project 2, Income Café Dashboard
+
+A dashboard was requested to be created from a café's database to maintain control over their income. To accomplish this, activities such as data extraction, related table cleaning, data manipulation, and dynamic visualization using Power BI were carried out. The resulting dashboard contains four interrelated graphs, enabling dynamic navigation by selecting any item to filter related values.
+
+
